@@ -1,0 +1,1 @@
+Provided with a design mockup as a PDF-file that must be replicated in HTML and CSS. Developed a responsive website that displays images, descriptions, etc.
